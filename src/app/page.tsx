@@ -1,8 +1,8 @@
 import { Metadata } from "next";
 import App from "./app";
 
-//const appUrl = process.env.NEXT_PUBLIC_URL;
-const appUrl = "https://main.d3pjwcq7fnhayu.amplifyapp.com";
+const appUrl = process.env.NEXT_PUBLIC_URL;
+//const appUrl = "https://main.d3pjwcq7fnhayu.amplifyapp.com";
 
 const frame = {
   version: "next",
